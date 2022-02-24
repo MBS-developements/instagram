@@ -1,0 +1,3 @@
+Hello users
+
+This file stores the DB backup file list and refresh the contents for every 10 mins...
