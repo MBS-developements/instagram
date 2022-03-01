@@ -1,4 +1,4 @@
-we are ready to add the command with the library.
-this is from master branch.
-this  for demo purpose
-this from dev brach
+we are ready to add the command  the library.
+this  master branch.
+this  demo purpose
+this dev branch
